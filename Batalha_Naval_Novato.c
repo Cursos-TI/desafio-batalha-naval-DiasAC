@@ -6,9 +6,9 @@ int main(){
     int tabuleiro[10][10] = {0}; // matriz do tabuleiro no tamanho de 10x10.
     int navio_vertical[3] = {7,8,9}; // variavel indicando o uso dos indices na vertical.
     int navio_horizontal[3] = {5, 6, 7}; // variavel indicando o uso dos indices na horizontal.
-    int habilidade_cone [5][5];
-    int habilidade_cruz [5][5];
-    int habilidade_octaedro [5][5];
+    int habilidade_cone[5][5];
+    int habilidade_cruz[5][5];
+    int habilidade_octaedro[5][5];
 
 
     printf("*** Batalha Naval ***\n\n");
